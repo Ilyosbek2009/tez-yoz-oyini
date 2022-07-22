@@ -145,4 +145,8 @@ text.addEventListener("input", (e) => {
 })
 
 
+
+
+
+
 // tiyping game
