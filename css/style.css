@@ -48,6 +48,7 @@ body{
 
 
 
+
 #input_area{
     width: 55%;
     font-size: 15px;
@@ -56,12 +57,21 @@ body{
     color: #fff;
     outline: none;
 }
+
+
+
+
+
+
 .time_section, .score_section{
     color: #fff;
     font-size: 18px;
     font-family: system-ui;
     font-weight: 600;
 }
+
+
+
 
 .end_game{
     display: none;
