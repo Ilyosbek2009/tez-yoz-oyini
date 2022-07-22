@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
 
+
+
+
 body{
     background-color: #11111d;
     display: flex;
@@ -10,6 +13,13 @@ body{
     overflow: hidden;
 }
 
+
+
+
+
+
+
+
 .container{
     display: flex;
     justify-content: center;
@@ -19,6 +29,14 @@ body{
     width: 500px;
     height: 280px;
 }
+
+
+
+
+
+
+
+
 #word{
     color: #e9fa24;
     font-size: 60px;
@@ -26,6 +44,10 @@ body{
     letter-spacing: 1.2px;
     font-family: 'Kdam Thmor Pro', sans-serif;
 }
+
+
+
+
 #input_area{
     width: 55%;
     font-size: 15px;
