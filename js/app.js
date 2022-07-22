@@ -5,6 +5,8 @@ const scoreEl = document.getElementById('score');
 const timeEl = document.getElementById('time');
 const endGameEl = document.getElementById('end_game');
 
+// javascript tutorial
+
 const words = [
   "npm cache",
   "vue",
