@@ -143,3 +143,6 @@ text.addEventListener("input", (e) => {
         updateTime();
     }
 })
+
+
+// tiyping game
